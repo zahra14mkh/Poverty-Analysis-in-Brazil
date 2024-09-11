@@ -1,4 +1,4 @@
-# Poverty Analysis in Brazil
+# Discrete data analysis of poverty in Brazil
 
 ## Overview
 This R script analyzes the relationship between various socio-economic factors and poverty in Brazil using contingency tables, logistic regression models, and statistical tests. The dataset, `poverty_brazil.xlsx`, contains variables such as gender, age, education, work status, and ethnicity, which are used to examine the likelihood of poverty.
